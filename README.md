@@ -4403,7 +4403,7 @@ MCP servers for job search and career platforms.
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
-
+- [SubScraper](https://github.com/subscraper-dev/subscraper-mcp) - Subscraper's official MCP server providing AI agents with 14+ endpoints for Reddit search, comment trees, and post extraction without Reddit API keys.
 - [HasData/instagram-mcp](https://github.com/HasData/instagram-mcp) [![HasData/instagram-mcp MCP server](https://glama.ai/mcp/servers/HasData/instagram-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/instagram-mcp) 📇 ☁️ - Public Instagram data: profiles and post feeds by handle, with follower counts, captions, hashtags and mentions parsed as JSON.
 - [HasData/facebook-mcp](https://github.com/HasData/facebook-mcp) [![HasData/facebook-mcp MCP server](https://glama.ai/mcp/servers/HasData/facebook-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/facebook-mcp) 📇 ☁️ - Public Facebook pages and profiles as JSON: likes, followers, talking-about counts, contact details and post feeds with reactions.
 - [HasData/youtube-mcp](https://github.com/HasData/youtube-mcp) [![HasData/youtube-mcp MCP server](https://glama.ai/mcp/servers/HasData/youtube-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/youtube-mcp) 📇 ☁️ - YouTube search, video and channel data and transcripts as JSON.
